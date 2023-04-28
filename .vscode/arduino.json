@@ -1,0 +1,6 @@
+{
+    "port": "COM10",
+    "board": "arduino:samd:mkrfox1200",
+    "sketch": "dht22.ino",
+    "programmer": "edbg"
+}

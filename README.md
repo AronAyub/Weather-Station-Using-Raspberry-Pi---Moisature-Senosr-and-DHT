@@ -1,9 +1,10 @@
-# Weather Station Using Raspberry Pi , Moisature Senosr and DHT
+# Weather Station Using Raspberry Pi, Azure , Moisture, Temp & Hum.
+
  Make a home weather mini weather station 
 
  - The most critical part of this project is on how to use circuitpython Library on Rapberry Pi.
 
- ## Prerequisite Pi Setup!
+ ## Prerequisite R-Pi Setup!
 In this page we'll assume you've already gotten your Raspberry Pi up and running and can log into the command line
 
 - Here's the quick-start for people with some experience:However, be encouraged to use any method of your choice to install the OS.
